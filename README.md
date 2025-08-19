@@ -17,3 +17,14 @@ A simple and interactive **Length Converter** built with **HTML**, **CSS**, and 
 
 ## 📂 Project Structure
 
+Length-Converter/
+│
+├── index.html # Main HTML file
+├── style.css # CSS styling
+└── script.js # JavaScript logic
+
+## 💡 How to Use
+
+1. Clone or download the repository:
+   ```bash
+   git clone <your-repo-link>
